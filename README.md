@@ -6,16 +6,16 @@ It uses pandas, matplotlib, and seaborn to visualize and analyze medical examina
 ---
 
 ## 📁 Files Included
-- 'Medical Data.ipynb' → Jupyter Notebook with full analysis and visualizations  
-- 'medical_examination.csv' → Raw dataset used for analysis  
-- 'catplot.png' → Categorical plot of medical variables  
-- 'heatmap.png' → Heatmap showing correlation matrix
+- `Medical Data.ipynb` → Jupyter Notebook with full analysis and visualizations  
+- `medical_examination.csv` → Raw dataset used for analysis  
+- `catplot.png` → Categorical plot of medical variables  
+- `heatmap.png` → Heatmap showing correlation matrix
 
 ---
 
 ## 📌 Features
 
-- Cleans and processes medical data (e.g., calculates BMI, normalizes values)  
+- Cleans and processes medical data (e.g., calculates BMI, normalizes values)
 - Creates a categorical plot to compare medical features by activity and health conditions  
 - Generates a heatmap of correlations between key medical variables  
 - Uses Jupyter Notebook for clean and interactive analysis
